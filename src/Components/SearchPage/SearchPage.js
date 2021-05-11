@@ -1,5 +1,4 @@
 import React from 'react';
-
 const SearchPage = ({recipe}) => {
  const{label,image,url}=recipe.recipe
   return (
