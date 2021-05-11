@@ -1,0 +1,20 @@
+.home-container{
+  background: url('../images/pink.jfif') no-repeat;
+  background-size: cover; 
+  height: 100vh;
+}
+.text-container{
+  text-align: center;
+ padding-top: 10rem
+}
+.text-container p,p>a{
+  font-style: italic;
+}
+ p>a,p>a:hover{
+  text-decoration: none;
+  color: black;
+}
+#link{
+  text-decoration: none;
+  color: white;
+}
